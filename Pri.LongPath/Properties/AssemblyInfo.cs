@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Pri.LongPath for .NET 4.5")]
-[assembly: AssemblyDescription("Pri.LongPath for .NET 4.5")]
+[assembly: AssemblyDescription("Drop-in library to support long paths in .NET")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Peter Ritchie Inc.")]
 [assembly: AssemblyProduct("Pri.LongPath")]
-[assembly: AssemblyCopyright("Copyright © Peter Ritchie 2014")]
+[assembly: AssemblyCopyright("Copyright © Peter Ritchie 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
